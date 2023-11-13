@@ -1,0 +1,11 @@
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\bin\Debug\ClusterGrowthModel.exe.config
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\bin\Debug\ClusterGrowthModel.exe
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\bin\Debug\ClusterGrowthModel.pdb
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.csproj.AssemblyReference.cache
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.Form1.resources
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.Properties.Resources.resources
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.csproj.GenerateResource.cache
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.csproj.CoreCompileInputs.cache
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.exe
+E:\CPS LAB\ClusterGrowthModel\ClusterGrowthModel\obj\Debug\ClusterGrowthModel.pdb
